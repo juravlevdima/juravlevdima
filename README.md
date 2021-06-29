@@ -24,8 +24,8 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 <a href="https://www.codewars.com/users/juravlevdima"><img src="https://www.codewars.com/users/juravlevdima/badges/large"></a>
 
 ### Connect with me:
-
-juravlevdima96@gmail.com
+- juravlevdima96@gmail.com
+- <a href="https://t.me/Dmitrii_J">t.me/Dmitrii_J</a>
 
 <!--
 **juravlevdima/juravlevdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
