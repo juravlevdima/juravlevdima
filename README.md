@@ -4,10 +4,11 @@
 - ⚡ I like experimenting with new technologies and building small projects.
 - ✍🏻 Fast learner, team player.
 
-### Education
+### Education:
+
 Bachelor of Computer Technology and Software Development, Kyrgyz National University named after Jusup Balasagyn, Information Technology and Innovations Faculty.
 
-### Technologies
+### Technologies:
 
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="30" title="JavaScript" /></code>
 <code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="ReactJS" height="30" title="React" /></code>
@@ -18,10 +19,13 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="30" title="TailwindCSS" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:git.svg" alt="Git" height="30" title="Git" /></code>
 
-### My Skill
+### My Skill:
 
 <a href="https://www.codewars.com/users/juravlevdima"><img src="https://www.codewars.com/users/juravlevdima/badges/large"></a>
 
+### Connect with me:
+
+juravlevdima96@gmail.com
 
 <!--
 **juravlevdima/juravlevdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
