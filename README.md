@@ -9,13 +9,14 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 
 ### Technologies
 
-<img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="50" />
-<img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="50" />
-<img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="50" />
-<img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="50" /> 
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="40" /></code>
+<code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="40" /></code>
+<code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="40" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="40" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="40" /></code>
 
 ### My Skill
+
 <a href="https://www.codewars.com/users/juravlevdima"><img src="https://www.codewars.com/users/juravlevdima/badges/large"></a>
 
 
