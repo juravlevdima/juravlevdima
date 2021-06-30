@@ -6,7 +6,7 @@
 
 ### Education:
 
-Bachelor of Computer Technology and Software Development, Kyrgyz National University named after Jusup Balasagyn, Information Technology and Innovations Faculty.
+Bachelor of Computer Technology and Software Development, Kyrgyz National University named after Jusup Balasagyn, Faculty of Information and Innovation Technologies.
 
 ### Technologies:
 
