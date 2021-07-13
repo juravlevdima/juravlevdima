@@ -11,6 +11,8 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 ### Technologies:
 
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:javascript.svg" alt="JavaScript" height="30" title="JavaScript" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="HTML5" height="30" title="HTML5" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:css-3.svg" alt="CSS3" height="30" title="CSS3" /></code>
 <code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="ReactJS" height="30" title="React" /></code>
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="30" title="Redux" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:nodejs.svg" alt="Node" height="30" title="Node.js" /></code>
