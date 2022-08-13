@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I'm Dmitrii, Full Stack web developer from Kyrgyzstan.
-- ⚡ I like experimenting with new technologies and building small projects.
+- ⚡ In my free time I like to experiment with new technologies and build small projects.
 - ✍🏻 Fast learner, team player.
 
 ### Education:
@@ -29,6 +29,7 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 
 ### Connect with me:
 - juravlevdima96@gmail.com
+- <a href="https://t.me/Dmitrii_J">Telegram</a>
 - <a href="https://www.linkedin.com/in/dmitrii-zhuravlev/">LinkedIn</a>
 
 <!--
