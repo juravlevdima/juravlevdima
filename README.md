@@ -29,7 +29,7 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 
 ### Connect with me:
 - juravlevdima96@gmail.com
-- <a href="https://t.me/Dmitrii_J">Telegram</a>
+- <a href="https://t.me/Dmitriii_i">Telegram</a>
 - <a href="https://www.linkedin.com/in/dmitrii-zhuravlev/">LinkedIn</a>
 
 <!--
