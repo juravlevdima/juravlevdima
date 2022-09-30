@@ -23,12 +23,14 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
   <summary>Show more</summary>
   <p>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos/nestjs.svg" alt="NestJS" height="30" title="NestJS" /></code>
+    <code><img style="margin: 10px" src="https://api.iconify.design/logos/mobx.svg" alt="MobX" height="30" title="MobX" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/cib/socket-io.svg" alt="Socket.IO" height="30" title="Socket.IO" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="Mongo" height="30" title="MongoDB" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos/postgresql.svg" alt="PostgreSQL" height="30" title="PostgreSQL" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos:sass.svg" alt="Sass" height="30" title="Sass" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="30" title="TailwindCSS" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="30" title="Bootstrap" /></code>
+    <code><img style="margin: 10px" src="https://api.iconify.design/logos/webpack.svg" alt="Webpack" height="30" title="Webpack" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos:git.svg" alt="Git" height="30" title="Git" /></code>
   </p>
 </details>
