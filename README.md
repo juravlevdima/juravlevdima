@@ -20,7 +20,7 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="30" title="Redux" /></code>
 <code><img style="margin: 10px" src="https://api.iconify.design/logos:nodejs.svg" alt="Node" height="30" title="Node.js" /></code>
 <details>
-  <summary>Show more</summary>
+  <summary>Show more 👈</summary>
   <p>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos/nestjs.svg" alt="NestJS" height="30" title="NestJS" /></code>
     <code><img style="margin: 10px" src="https://api.iconify.design/logos/mobx.svg" alt="MobX" height="30" title="MobX" /></code>
