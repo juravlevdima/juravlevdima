@@ -46,6 +46,9 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 - <a href="https://t.me/Dmitriii_i">Telegram</a>
 - <a href="https://www.linkedin.com/in/dmitrii-zhuravlev/">LinkedIn</a>
 
+### My resume
+<a href="https://career.habr.com/juravlevdima96/print.pdf"></a>
+
 <!--
 **juravlevdima/juravlevdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
