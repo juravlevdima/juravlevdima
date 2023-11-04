@@ -41,12 +41,12 @@ Bachelor of Computer Technology and Software Development, Kyrgyz National Univer
 
 <a href="https://www.codewars.com/users/juravlevdima"><img src="https://www.codewars.com/users/juravlevdima/badges/large"></a>
 
-### Connect with me:
+### Contacts:
 - juravlevdima96@gmail.com
 - <a href="https://t.me/Dmitriii_i">Telegram</a>
 - <a href="https://www.linkedin.com/in/dmitrii-zhuravlev/">LinkedIn</a>
 
-### My resume
+### Resume
 <a href="https://career.habr.com/juravlevdima96/print.pdf">Resume (pdf)</a>
 
 <!--
